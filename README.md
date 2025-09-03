@@ -80,11 +80,11 @@ If you use SEISMO-VRE in your research, please cite it as follows:
 
 Marchetti, D., Bailo, D., Falcone, G., Michalek, J., Paciello, R., & Piscini, A. (2023). SEISMO_VRE. GitHub. https://github.com/dedalomarchetti/SEISMO-VRE
 
-DOI: https://doi.org/10.5281/zenodo.1234567 (Sostituisci con il tuo DOI corretto)
+<b> DOI: https://doi.org/10.5281/zenodo.1234567 (Sostituisci con il tuo DOI corretto) </b>
 
 BibTeX
 If you are using BibTeX, you can use the following entry:  
-@software{marchetti_2023_seismo_vre,  
+@software{marchetti_2025_seismo_vre,  
 author       = {Marchetti, Dedalo and  
 Bailo, Daniele and  
 Falcone, Giuseppe and  
@@ -94,5 +94,5 @@ Piscini, Alessandro},
 title        = {{SEISMO_VRE}},  
 url          = {https://github.com/dedalomarchetti/SEISMO-VRE},  
 version      = {v1.0.0},  
-date         = {2023-10-27},  
+date         = {2025-09-03},  
 }
