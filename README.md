@@ -75,7 +75,24 @@ This project is licensed under the GPL 3.0 License. See the [LICENSE](LICENSE) f
 
 All contributions — bug reports, feature ideas, documentation — are welcome! 🙌
 
-## Citation
+## How to Cite
+If you use SEISMO-VRE in your research, please cite it as follows:
 
-If you use this VRE, please insert the following citation:  
+Marchetti, D., Bailo, D., Falcone, G., Michalek, J., Paciello, R., & Piscini, A. (2023). SEISMO_VRE. GitHub. https://github.com/dedalomarchetti/SEISMO-VRE
 
+DOI: https://doi.org/10.5281/zenodo.1234567 (Sostituisci con il tuo DOI corretto)
+
+BibTeX
+If you are using BibTeX, you can use the following entry:  
+@software{marchetti_2023_seismo_vre,  
+author       = {Marchetti, Dedalo and  
+Bailo, Daniele and  
+Falcone, Giuseppe and  
+Michalek, Jan and  
+Paciello, Rossana and  
+Piscini, Alessandro},  
+title        = {{SEISMO_VRE}},  
+url          = {https://github.com/dedalomarchetti/SEISMO-VRE},  
+version      = {v1.0.0},  
+date         = {2023-10-27},  
+}
