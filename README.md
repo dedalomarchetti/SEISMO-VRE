@@ -31,6 +31,19 @@ The first developed version is the one with the MATLAB kernel, so for eventual d
 
 \* If you want to just view the Notebook you can simply click inside GitHub on the file `VRE_Amatrice_v1.5.ipynb` to preview it inside the same GitHub.
 
+## Repository layout
+
+| File                              | Description                                                                            |
+| ----------------------------------| ---------------------------------------------------------------------------------------|
+| **`SEISMO-VRE_Matlab_v1.0.ipynb`**| Virtual Research Environment (VRE) in the form of Jupyter Notebook with MATLAB kernel  |
+| **`SEISMO-VRE_Python_v1.0.ipynb`** | Virtual Research Environment (VRE) in the form of Jupyter Notebook with Python kernel |
+| **`requirements.txt`**            | Strict dependency pinning for reproducible Python environments                         |
+| **`data folder`**                 | Atmospheric and geomagnetic data                                                       |
+| **`extra_code folder`**           | Additional functions for Matlab VRE                                                    |
+| **`publications folder`**         | Conference abstract and proceedings                                                    |
+| **`LICENSE`**                     | GPL 3.0 licence text.                                                                  |
+
+---
 ## Scientific contribution
 
 This work has been presented at the GNGTS 2025 conference (Bologna, Italy, 11 February 2025) with a poster titled:
