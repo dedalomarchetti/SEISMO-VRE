@@ -47,6 +47,16 @@ Dedalo Marchetti (1), Daniele Bailo (1), Giuseppe Falcone (1), Jan Michalek (2),
 
 This project is licensed under the GPL 3.0 License. See the [LICENSE](LICENSE) file for details.
 
+## Contributing
+
+1. **Fork** the repository.
+2. Create a feature branch: `git checkout -b feature/my‑idea`.
+3. **Commit** your changes: `git commit -am 'Add awesome feature'`.
+4. **Push** the branch: `git push origin feature/my‑idea`.
+5. Open a **Pull Request** and describe your improvement.
+
+All contributions — bug reports, feature ideas, documentation — are welcome! 🙌
+
 ## Citation
 
 If you use this VRE, please insert the following citation:  
