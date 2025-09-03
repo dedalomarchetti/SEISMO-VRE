@@ -7,6 +7,7 @@ The first developed version is the one with the MATLAB kernel, so for eventual d
 
 - [Jupyter Notebook](https://jupyter.org/) or [JupyterLab](https://jupyter.org/)
 - MATLAB with the [MATLAB kernel for Jupyter](https://github.com/Calysto/matlab_kernel)
+- MATLAB Toolboxes: 'Mapping', 'Statistics and Machine Learning Toolbox', 'Curve Fitting'
 - (Optional) Python environment via Anaconda or similar
 
 ## How to Run (*)
