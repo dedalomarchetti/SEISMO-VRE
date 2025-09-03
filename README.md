@@ -26,7 +26,8 @@ The first developed version is the one with the MATLAB kernel, so for eventual d
    jupyter notebook
    ```
 
-3. Open `SEISMO-VRE_MATLAB_v1.0.ipynb` and follow the instructions inside. For Phyton version, please, open instead `SEISMO-VRE_Python_v1.0.ipynb`.
+3. For MATLAB version, please open `SEISMO-VRE_MATLAB_v1.0.ipynb` and follow the instructions inside.  
+   For the Python version, please open `SEISMO-VRE_Python_v1.0.ipynb` instead.
 
 \* If you want to just view the Notebook you can simply click inside GitHub on the file `VRE_Amatrice_v1.5.ipynb` to preview it inside the same GitHub.
 
