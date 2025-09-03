@@ -3,12 +3,15 @@ This is a Virtual Research Environment (VRE) in the form of Jupyter Notebook wit
 It integrates geophysical, atmospheric, and solar datasets to support interdisciplinary research.
 The first developed version is the one with the MATLAB kernel, so for eventual differences, this is the reference VRE.
 
-## Requirements for MATLAB Version (For Python, see the specific file requirements.txt)
+## Requirements 
+### for MATLAB Version 
 
 - [Jupyter Notebook](https://jupyter.org/) or [JupyterLab](https://jupyter.org/)
 - MATLAB with the [MATLAB kernel for Jupyter](https://github.com/Calysto/matlab_kernel)
 - MATLAB Toolboxes: 'Mapping', 'Statistics and Machine Learning Toolbox', 'Curve Fitting'
 - (Optional) Python environment via Anaconda or similar
+### for Python version
+- see the specific file `requirements.txt`
 
 ## How to Run (*)
 
