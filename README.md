@@ -78,7 +78,7 @@ All contributions — bug reports, feature ideas, documentation — are welcome!
 ## How to Cite
 If you use SEISMO-VRE in your research, please cite it as follows:
 
-Marchetti, D., Bailo, D., Falcone, G., Michalek, J., Paciello, R., & Piscini, A. (2023). SEISMO_VRE. GitHub. https://github.com/dedalomarchetti/SEISMO-VRE
+Marchetti, D., Bailo, D., Falcone, G., Michalek, J., Paciello, R., & Piscini, A. (2025). SEISMO_VRE. GitHub. https://github.com/dedalomarchetti/SEISMO-VRE
 
 <b> DOI: https://doi.org/10.5281/zenodo.1234567 (Sostituisci con il tuo DOI corretto) </b>
 
