@@ -46,15 +46,12 @@ The first developed version is the one with the MATLAB kernel, so for eventual d
 ---
 ## Scientific contribution
 
-This work has been presented at the GNGTS 2025 conference (Bologna, Italy, 11 February 2025) with a poster titled:
-"An inter-disciplinary Virtual Research Environment to study the Amatrice-Norcia Italian seismic sequence 2016"
-It will be presented at EGU 2025 (Vienna, Austria, 2 May 2025) with a virtual poster titled:
-"A Jupyter Notebook devoted to a multiparametric investigation of the Amatrice-Norcia Italian seismic sequence 2016-2017"
-and at ICCSA 2025 under the title:
-"A multiparametric investigation of an earthquake by a Jupyter Notebook: the case study of the Amatrice-Norcia Italian seismic sequence 2016-2017"
+The scientific application of this software has been presented at:
+- the GNGTS 2025 conference (Bologna, Italy, 11 February 2025) with a poster titled: "An inter-disciplinary Virtual Research Environment to study the Amatrice-Norcia Italian seismic sequence 2016"
+- the EGU 2025 (Vienna, Austria, 2 May 2025) with a virtual poster titled: "A Jupyter Notebook devoted to a multiparametric investigation of the Amatrice-Norcia Italian seismic sequence 2016-2017"
+- ICCSA 2025 with the title: "A multiparametric investigation of an earthquake by a Jupyter Notebook: the case study of the Amatrice-Norcia Italian seismic sequence 2016-2017"
 
 ## Collaborators
-The collaborators of this work are:
 
 Dedalo Marchetti (1), Daniele Bailo (1), Giuseppe Falcone (1), Jan Michalek (2), Rossana Paciello (1), Alessandro Piscini (1)
 
