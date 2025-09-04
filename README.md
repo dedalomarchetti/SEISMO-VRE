@@ -31,7 +31,7 @@ The first developed version is the one with the MATLAB kernel, so for eventual d
 
 \* If you want to just view the Notebook you can simply click inside GitHub on the file `VRE_Amatrice_v1.5.ipynb` to preview it inside the same GitHub.
 
-## Repository layout
+## Repository structure
 
 | File                              | Description                                                                            |
 | ----------------------------------| ---------------------------------------------------------------------------------------|
