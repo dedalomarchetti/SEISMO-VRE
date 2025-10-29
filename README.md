@@ -38,9 +38,9 @@ The first developed version is the one with the MATLAB kernel, so for eventual d
 | **`SEISMO-VRE_Matlab_v1.0.ipynb`**| Virtual Research Environment (VRE) in the form of Jupyter Notebook with MATLAB kernel  |
 | **`SEISMO-VRE_Python_v1.0.ipynb`** | Virtual Research Environment (VRE) in the form of Jupyter Notebook with Python kernel |
 | **`requirements.txt`**            | Strict dependency pinning for reproducible Python environments                         |
-| **`data folder`**                 | Atmospheric and geomagnetic data                                                       |
-| **`extra_code folder`**           | Additional functions for Matlab VRE                                                    |
-| **`publications folder`**         | Conference abstract and proceedings                                                    |
+| **`data` folder**                 | Atmospheric and geomagnetic data                                                       |
+| **`Outouts` folder**              | Outputs (graphs and tables) produced by the SEISMO-VRE                                 |
+| **`publications` folder**         | Conference abstract and proceedings                                                    |
 | **`LICENSE`**                     | GPL 3.0 licence text.                                                                  |
 
 ---
