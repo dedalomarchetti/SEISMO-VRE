@@ -1,5 +1,4 @@
-[![DOI](https://zenodo.org/badge/1046266812.svg)](https://doi.org/10.5281/zenodo.17602394)
-https://mybinder.org/v2/gh/dedalomarchetti/SEISMO-VRE/4ded9a98533375be2b1ad9791626e73ca892c727?urlpath=lab%2Ftree%2FSEISMO-VRE_Python_v1.0.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dedalomarchetti/SEISMO-VRE/4ded9a98533375be2b1ad9791626e73ca892c727?urlpath=lab%2Ftree%2FSEISMO-VRE_Python_v1.0.ipynb)
 
 # SEISMO-VRE
 This is a Virtual Research Environment (VRE) in the form of Jupyter Notebook with MATLAB or Python kernel dedicated to a multiparametric and multidisciplinary study of an earthquake.  
@@ -80,7 +79,7 @@ If you use SEISMO-VRE in your research, please cite it as follows:
 
 Marchetti, D., Bailo, D., Falcone, G., Michalek, J., Paciello, R., & Piscini, A. (2025). SEISMO_VRE. GitHub. https://github.com/dedalomarchetti/SEISMO-VRE
 
-<b> DOI: https://doi.org/10.5281/zenodo.1234567 (Sostituisci con il tuo DOI corretto) </b>
+<b> DOI: https://doi.org/10.5281/zenodo.17602394 </b>
 
 BibTeX
 If you are using BibTeX, you can use the following entry:  
@@ -92,7 +91,10 @@ Michalek, Jan and
 Paciello, Rossana and  
 Piscini, Alessandro},  
 title        = {{SEISMO_VRE}},  
-url          = {https://github.com/dedalomarchetti/SEISMO-VRE},  
+url          = {https://github.com/dedalomarchetti/SEISMO-VRE}, 
+doi          = {https://doi.org/10.5281/zenodo.17602394},  
 version      = {v1.0.0},  
 date         = {2025-09-03},  
 }
+
+[![DOI](https://zenodo.org/badge/1046266812.svg)](https://doi.org/10.5281/zenodo.17602394)
