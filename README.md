@@ -1,4 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dedalomarchetti/SEISMO-VRE/4ded9a98533375be2b1ad9791626e73ca892c727?urlpath=lab%2Ftree%2FSEISMO-VRE_Python_v1.0.ipynb)
+  [![DOI](https://zenodo.org/badge/1046266812.svg)](https://doi.org/10.5281/zenodo.17602394)
 
 # SEISMO-VRE
 This is a Virtual Research Environment (VRE) in the form of Jupyter Notebook with MATLAB or Python kernel dedicated to a multiparametric and multidisciplinary study of an earthquake.  
@@ -97,4 +98,3 @@ version      = {v1.0.0},
 date         = {2025-09-03},  
 }
 
-[![DOI](https://zenodo.org/badge/1046266812.svg)](https://doi.org/10.5281/zenodo.17602394)
