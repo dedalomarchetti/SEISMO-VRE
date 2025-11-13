@@ -53,7 +53,6 @@ pyproj==3.6.1
 pyshp==2.3.1
 python-dateutil==2.9.0.post0
 pytz==2025.2
-pywin32==310
 pyzmq==26.4.0
 requests==2.32.3
 scipy==1.13.1
@@ -72,3 +71,4 @@ viresclient==0.13.0
 wcwidth==0.2.13
 xarray==2024.7.0
 zipp==3.21.0
+
