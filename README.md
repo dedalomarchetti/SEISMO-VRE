@@ -59,7 +59,7 @@ The scientific application of this software has been presented at:
 Dedalo Marchetti (1), Daniele Bailo (1), Giuseppe Falcone (1), Jan Michalek (2), Rossana Paciello (1), Alessandro Piscini (1)
 
 1. Istituto Nazionale di Geofisica e Vulcanologia (INGV), Italy  
-2. University of Bergen, Norway
+2. Institute of Geophysics of the Czech Academy of Sciences (IG CAS), Czechia
 
 ## License
 
