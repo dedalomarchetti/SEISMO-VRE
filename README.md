@@ -32,7 +32,7 @@ The first developed version is the one with the MATLAB kernel, so for eventual d
 3. For MATLAB version, please open `SEISMO-VRE_MATLAB_v1.0.ipynb` and follow the instructions inside.  
    For the Python version, please open `SEISMO-VRE_Python_v1.0.ipynb` instead.
 
-\* If you want to just view the Notebook you can simply click inside GitHub on the file SEISMO-VRE_MATLAB_v1.0.ipynb` or `SEISMO-VRE_Python_v1.0.ipynb` to preview it inside the same GitHub.
+\* If you want to just view the Notebook you can simply click inside GitHub on the file `SEISMO-VRE_MATLAB_v1.0.ipynb` or `SEISMO-VRE_Python_v1.0.ipynb` to preview it inside the same GitHub.
 
 ## Repository structure
 
