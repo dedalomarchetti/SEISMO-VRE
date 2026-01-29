@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dedalomarchetti/SEISMO-VRE/97285c7c9d32cf66d88763fcafab7cbdc7141832?urlpath=lab%2Ftree%2FSEISMO-VRE_Python_v1.0.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dedalomarchetti/SEISMO-VRE/cd8dbaab61c074d8b4e6392459fc7ec5840e0c3c?urlpath=lab%2Ftree%2FSEISMO-VRE_Python_v1.0.ipynb)
   [![DOI](https://zenodo.org/badge/1046266812.svg)](https://doi.org/10.5281/zenodo.17602394)
 
 # SEISMO-VRE
