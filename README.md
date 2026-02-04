@@ -4,7 +4,10 @@
 # SEISMO-VRE
 This is a Virtual Research Environment (VRE) in the form of Jupyter Notebook with MATLAB or Python kernel dedicated to a multiparametric and multidisciplinary study of an earthquake.  
 It integrates geophysical, atmospheric, and solar datasets to support interdisciplinary research.
-The first developed version is the one with the MATLAB kernel, so for eventual differences, this is the reference VRE.
+The first developed version is the one with the MATLAB kernel, so for eventual differences, this is the reference VRE.   
+
+## Paper with tool description
+A full description of the SEISMO_VRE tool is provided in this paper, published in SoftwareX [Marchetti D., Bailo D., Falcone G., Michalek J., Paciello R., Piscini A. "SEISMO-VRE: A tool for a multiparametric and multidisciplinary study of an earthquake", SoftwareX, vol. 33, 102538, 2026.  DOI: 10.1016/j.softx.2026.102538](https://doi.org/10.1016/j.softx.2026.102538).  
 
 ## Requirements 
 ### for MATLAB Version 
@@ -43,7 +46,7 @@ The first developed version is the one with the MATLAB kernel, so for eventual d
 | **`requirements.txt`**            | Strict dependency pinning for reproducible Python environments                         |
 | **`data` folder**                 | Atmospheric and geomagnetic data, along with Jupyter notebooks to update data          |
 | **`Outouts` folder**              | Outputs (graphs and tables) produced by the SEISMO-VRE                                 |
-| **`publications` folder**         | Conference abstract and proceedings                                                    |
+| **`publications` folder**         | Papers, Conference abstracts and proceedings                                                    |
 | **`LICENSE`**                     | GPL 3.0 licence text.                                                                  |
 
 ---
